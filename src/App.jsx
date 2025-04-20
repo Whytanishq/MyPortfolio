@@ -1,6 +1,6 @@
 
 import AppShowcase from "./sections/ShowcaseSection";
-import Hero from "./sections/hero";
+import Hero from "./sections/Hero";
 import  NavBar from "./components/NavBar";
 import LogoSection from "./components/LogoSection";
 import FeatureCards from "./sections/FeatureCards";
