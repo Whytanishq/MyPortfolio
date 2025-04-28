@@ -25,7 +25,7 @@ const AppShowcase = () => {
       title: "Wealth Finance",
       description: "AI-powered financial dashboard with predictive analytics, expense tracking, and interactive data visualizations. Helps users optimize their spending and savings habits.",
       image: "/images/project2.png",
-      tech: ["React", "Chart.js", "Python", "TensorFlow", "Firebase"],
+      tech: ["React", "Chart.js", "Tailwind", "Supabase", "Node.js"],
       github: "https://github.com/Whytanishq/Welth.git",
       bgColor: "bg-[#E8F4FD]"
     },
